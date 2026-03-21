@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "logoloom": {
+      "command": "npx",
+      "args": ["-y", "@mcpware/logoloom"]
+    }
+  },
+  "permissions": {
+    "allow": [
+      "Read(*)",
+      "Write(brand/*)",
+      "Write(/tmp/*)"
+    ]
+  }
+}
