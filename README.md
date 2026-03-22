@@ -1,6 +1,6 @@
 # LogoLoom
 
-**AI-powered logo design → SVG → full brand kit.** Free, local, MCP-native.
+**One command. Full brand kit. Zero cost.** Stop juggling 5 tools for your logo.
 
 [![npm](https://img.shields.io/npm/v/@mcpware/logoloom)](https://www.npmjs.com/package/@mcpware/logoloom)
 [![license](https://img.shields.io/npm/l/@mcpware/logoloom)](LICENSE)
@@ -9,14 +9,40 @@
   <img src="docs/demo.png" alt="LogoLoom brand kit output" width="800">
 </p>
 
+## The Problem
+
+Getting a logo for your side project shouldn't cost $96 (Looka) or require juggling Canva + favicon generator + OG image maker + manual PNG exports. Logo is the #1 shipping blocker for indie devs — not because it's hard, but because the tooling sucks.
+
+## The Solution
+
+AI designs your logo as **clean SVG code** (not messy auto-traced paths), then post-processes into a **complete brand kit — 31 files, one command:**
+
+- **SVG** — full logo, icon only, wordmark only (light/dark/mono variants)
+- **PNG** — 10 standard sizes (16px favicon → 1024px App Store)
+- **ICO** — browser favicon
+- **WebP** — web optimized
+- **Social** — OG image (1200×630), GitHub preview (1280×640), Twitter header (1500×500)
+- **BRAND.md** — color codes, typography, usage guidelines
+
+Zero API cost. Everything runs locally. Free forever.
+
+## Why Not Use Existing Tools?
+
+| Tool | Price | SVG? | Full brand kit? | MCP? | Local? |
+|------|:-----:|:----:|:---------------:|:----:|:------:|
+| **LogoLoom** | **Free** | **✅ clean code** | **✅ 31 files** | **✅** | **✅** |
+| Looka | $65-96 | ✅ | ✅ (templates) | ❌ | ❌ |
+| Brandmark | $35-95 | ✅ | ✅ ($95) | ❌ | ❌ |
+| Canva | $15/mo for SVG | raster only free | ✅ (Pro) | ❌ | ❌ |
+| Recraft V3 | Free = no commercial use | ✅ | ❌ | ❌ | ❌ |
+| SVGMaker MCP | credits ($) | ✅ cloud | ❌ | ✅ | ❌ |
+
 ## What it does
 
 1. **AI designs your logo** — Claude reads your codebase, understands your brand, writes SVG
 2. **Text → Path** — converts `<text>` to `<path>` so fonts render everywhere (opentype.js)
 3. **Optimize** — cleans SVG, removes bloat, compresses paths (SVGO)
-4. **Export brand kit** — PNG (256/512/1024), ICO favicon, WebP, OG image, color variants, brand guidelines
-
-One command. Zero API cost. Everything runs locally.
+4. **Export brand kit** — 31 files across 3 categories (full logo + icon only + wordmark only) × (light/dark/mono) + all PNG sizes + social media sizes + BRAND.md
 
 ## Quick Start
 
