@@ -1,10 +1,10 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.mcpware/logoloom",
-  "description": "AI-powered logo design → SVG → full brand kit export. Convert text to paths, optimize SVG, export PNG/ICO/WebP at all sizes. Free, local, zero API cost.",
+  "description": "AI logo design → SVG → full brand kit. Text-to-path, optimize, export PNG/ICO/WebP.",
   "repository": {
     "url": "https://github.com/mcpware/logoloom",
     "source": "github"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@mcpware/logoloom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI-powered logo design → SVG → full brand kit export. Free, local, MCP-native.",
   "type": "module",
   "bin": {
