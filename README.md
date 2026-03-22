@@ -5,6 +5,10 @@
 [![npm](https://img.shields.io/npm/v/@mcpware/logoloom)](https://www.npmjs.com/package/@mcpware/logoloom)
 [![license](https://img.shields.io/npm/l/@mcpware/logoloom)](LICENSE)
 
+<p align="center">
+  <img src="docs/demo.png" alt="LogoLoom brand kit output" width="800">
+</p>
+
 ## What it does
 
 1. **AI designs your logo** — Claude reads your codebase, understands your brand, writes SVG
