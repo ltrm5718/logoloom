@@ -110,13 +110,12 @@ All open source, all running locally:
 
 ## More from @mcpware
 
-| Tool | What it does | Install |
-|------|-------------|---------|
-| [instagram-mcp](https://github.com/mcpware/instagram-mcp) | 23 Instagram Graph API tools | `npx @mcpware/instagram-mcp` |
-| [claude-code-organizer](https://github.com/mcpware/claude-code-organizer) | Visual dashboard for Claude Code configs | `npx @mcpware/claude-code-organizer` |
-| [ui-annotator-mcp](https://github.com/mcpware/ui-annotator-mcp) | Hover labels on any web page for AI | `npx @mcpware/ui-annotator-mcp` |
-| [pagecast](https://github.com/mcpware/pagecast) | Record browser sessions as GIF/video | `npx @mcpware/pagecast` |
-
+| Project | What it does | Install |
+|---------|---|---|
+| **[Instagram MCP](https://github.com/mcpware/instagram-mcp)** | 23 Instagram Graph API tools — posts, comments, DMs, stories, analytics | `npx @mcpware/instagram-mcp` |
+| **[Claude Code Organizer](https://github.com/mcpware/claude-code-organizer)** | Visual dashboard for Claude Code memories, skills, MCP servers, hooks | `npx @mcpware/claude-code-organizer` |
+| **[UI Annotator](https://github.com/mcpware/ui-annotator-mcp)** | Hover labels on any web page — AI references elements by name | `npx @mcpware/ui-annotator` |
+| **[Pagecast](https://github.com/mcpware/pagecast)** | Record browser sessions as GIF or video via MCP | `npx @mcpware/pagecast` |
 ## License
 
 MIT
