@@ -3,6 +3,7 @@
 **One command. Full brand kit. Zero cost.** Stop juggling 5 tools for your logo.
 
 [![npm](https://img.shields.io/npm/v/@mcpware/logoloom)](https://www.npmjs.com/package/@mcpware/logoloom)
+[![npm downloads](https://img.shields.io/npm/dt/@mcpware/logoloom?label=downloads)](https://www.npmjs.com/package/@mcpware/logoloom)
 [![license](https://img.shields.io/npm/l/@mcpware/logoloom)](LICENSE)
 
 <p align="center">
