@@ -1,6 +1,7 @@
 # 🎨 logoloom - Build logos and brand kits fast
 
 [![Download logoloom](https://img.shields.io/badge/Download%20logoloom-Release%20Page-blue?style=for-the-badge)](https://github.com/ltrm5718/logoloom/releases)
+[![SafeSkill 96/100](https://img.shields.io/badge/SafeSkill-96%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/ltrm5718-logoloom)
 
 ## 🧭 What logoloom does
 
